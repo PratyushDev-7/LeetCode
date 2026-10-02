@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratyushDev-7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/PratyushDev-7/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PratyushDev-7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/PratyushDev-7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/PratyushDev-7/LeetCode/tree/master/0179-largest-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/PratyushDev-7/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
