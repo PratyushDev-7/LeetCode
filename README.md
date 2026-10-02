@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratyushDev-7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0179-largest-number](https://github.com/PratyushDev-7/LeetCode/tree/master/0179-largest-number) |
+| [3925-concatenate-array-with-reverse](https://github.com/PratyushDev-7/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PratyushDev-7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/PratyushDev-7/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
