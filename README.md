@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratyushDev-7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratyushDev-7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/PratyushDev-7/LeetCode/tree/master/0179-largest-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratyushDev-7/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3925-concatenate-array-with-reverse](https://github.com/PratyushDev-7/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PratyushDev-7/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratyushDev-7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
