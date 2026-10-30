@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/PratyushDev-7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/PratyushDev-7/LeetCode/tree/master/0179-largest-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PratyushDev-7/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PratyushDev-7/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/PratyushDev-7/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PratyushDev-7/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PratyushDev-7/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PratyushDev-7/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
